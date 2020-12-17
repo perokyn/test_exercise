@@ -1,4 +1,4 @@
-[
+{"properties":[
   {
     "id": 1,
     "property": {
@@ -264,3 +264,4 @@
     "excludedItems": []
   }
 ]
+}
